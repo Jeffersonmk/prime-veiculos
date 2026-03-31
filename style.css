@@ -1,0 +1,49 @@
+body h1 {
+    font-family: "Poppins", sans-serif;
+}
+
+body p {
+    font-family: "Inter", sans-serif;
+}
+
+.nav-link p {
+    font-size: 18px;
+}
+
+.navbar-brand h1 {
+    font-size: 30px;
+    color: #1B263B;
+    font-weight: 600;
+}
+
+.btn.btn-custom {
+    background-color: #1E293B;
+    color: white;
+}
+
+.nav-custom {
+    background-color: #E0E1DD
+}
+
+.nav-link p {
+    color: #1B263B;
+}
+
+.nav-link p:hover {
+    color: #415A77;
+}
+
+/* overlay escuro */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+}
+
+.bg-custom-light {
+    background-color: #b6d0f1;
+    color: #000; /* ajuste se precisar */
+}
