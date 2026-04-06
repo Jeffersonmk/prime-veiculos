@@ -1,5 +1,12 @@
-body h1 {
+body h1,
+body h5,
+body h3,
+body h2 {
     font-family: "Poppins", sans-serif;
+}
+
+body h3 {
+    font-size: 16px;
 }
 
 body p {
@@ -46,4 +53,8 @@ body p {
 .bg-custom-light {
     background-color: #b6d0f1;
     color: #000; /* ajuste se precisar */
+}
+
+.mt-custom {
+    margin-top: 150px;
 }
