@@ -122,3 +122,24 @@ ul {
 .card-body .text-popular {
     color: #f2f2f2;
 }
+
+.vantagens {
+    background-color: #000000;
+}
+
+.icon-custom {
+    color: #c1dbfe;
+}
+
+.vantagens p {
+    color: #ffffff;
+}
+
+.star-custom {
+    color: #c2dcff;
+}
+
+.card-text.card-custom {
+    color: #000000;
+}
+
