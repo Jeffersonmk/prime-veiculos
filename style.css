@@ -143,3 +143,34 @@ ul {
     color: #000000;
 }
 
+.card-border-custom {
+    border-left: 5px solid #465e7c !important;
+}
+
+.btn-custom-footer-headline {
+    color: black;
+    background-color: white;
+}
+
+
+.card-custom-footer-headline {
+    background: linear-gradient(135deg, #2d2d2d 0%, #0a0a0a 100%);
+}
+
+.font-custom-footer-headline {
+    color: white !important;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
+.footer p {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none; 
+    color: #696969;       
+}
+
