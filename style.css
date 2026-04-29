@@ -174,3 +174,20 @@ a {
     color: #696969;       
 }
 
+.card-text {
+    min-height: 24px;
+}
+
+.headline-preco {
+    min-height: 40px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+    background: #FFFFFF;
+}
+
+.mt-custom {
+    margin-top: 200px;
+}
